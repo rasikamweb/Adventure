@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Adventure</title>
+    <link href="https://rasikamweb.github.io/Adventure/feed.xml" rel="self" />
+    <link href="https://rasikamweb.github.io/Adventure" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>RasikaPerera</name>
+    </author>
+    <id>https://rasikamweb.github.io/Adventure</id>
+
+</feed>

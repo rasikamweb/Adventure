@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Adventure",
+    "description": "",
+    "home_page_url": "https://rasikamweb.github.io/Adventure",
+    "feed_url": "https://rasikamweb.github.io/Adventure/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RasikaPerera"
+    },
+    "items": [
+    ]
+}
