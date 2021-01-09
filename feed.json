@@ -9,5 +9,31 @@
         "name": "RasikaPerera"
     },
     "items": [
+        {
+            "id": "https://rasikamweb.github.io/Adventure/songs.html",
+            "url": "https://rasikamweb.github.io/Adventure/songs.html",
+            "title": "SONGS",
+            "author": {
+                "name": "RasikaPerera"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-09T06:15:50+05:30",
+            "date_modified": "2021-01-09T06:15:50+05:30"
+        },
+        {
+            "id": "https://rasikamweb.github.io/Adventure/welcome.html",
+            "url": "https://rasikamweb.github.io/Adventure/welcome.html",
+            "title": "WELCOME",
+            "summary": "Dear Children, The life is an adventure always.So is study. Let me welcome you to our class website. You will receive important information and class assignments through this website. May you reach all your nice targets in this wonderful year 2021!! Your Guide/Fellow traveler in&hellip;",
+            "content_html": "<p>Dear Children,</p>\n<p><strong>The life is an adventure always.So is study.</strong></p>\n<p><strong>Let me welcome you to our class website.</strong></p>\n<p><strong>You will receive important information and class assignments through this website.</strong></p>\n<p> </p>\n<p><strong>May you reach all your nice targets in this wonderful year 2021!!</strong></p>\n<p> </p>\n<p><strong>Your Guide/Fellow traveler in the path of IT Education</strong></p>\n<p>Rasika.M.Perera</p>",
+            "author": {
+                "name": "RasikaPerera"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-09T06:12:40+05:30",
+            "date_modified": "2021-01-09T06:20:44+05:30"
+        }
     ]
 }

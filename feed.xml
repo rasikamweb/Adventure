@@ -3,10 +3,50 @@
     <title>Adventure</title>
     <link href="https://rasikamweb.github.io/Adventure/feed.xml" rel="self" />
     <link href="https://rasikamweb.github.io/Adventure" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2021-01-09T06:20:44+05:30</updated>
     <author>
         <name>RasikaPerera</name>
     </author>
     <id>https://rasikamweb.github.io/Adventure</id>
 
+    <entry>
+        <title>SONGS</title>
+        <author>
+            <name>RasikaPerera</name>
+        </author>
+        <link href="https://rasikamweb.github.io/Adventure/songs.html"/>
+        <id>https://rasikamweb.github.io/Adventure/songs.html</id>
+
+        <updated>2021-01-09T06:15:50+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>WELCOME</title>
+        <author>
+            <name>RasikaPerera</name>
+        </author>
+        <link href="https://rasikamweb.github.io/Adventure/welcome.html"/>
+        <id>https://rasikamweb.github.io/Adventure/welcome.html</id>
+
+        <updated>2021-01-09T06:20:44+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Dear Children, The life is an adventure always.So is study. Let me welcome you to our class website. You will receive important information and class assignments through this website. May you reach all your nice targets in this wonderful year 2021!! Your Guide/Fellow traveler in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dear Children,</p>
+<p><strong>The life is an adventure always.So is study.</strong></p>
+<p><strong>Let me welcome you to our class website.</strong></p>
+<p><strong>You will receive important information and class assignments through this website.</strong></p>
+<p> </p>
+<p><strong>May you reach all your nice targets in this wonderful year 2021!!</strong></p>
+<p> </p>
+<p><strong>Your Guide/Fellow traveler in the path of IT Education</strong></p>
+<p>Rasika.M.Perera</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
